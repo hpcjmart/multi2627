@@ -1,8 +1,8 @@
-title: Página de Prueba
+title: Página de la asignarura Multiprocesadores del curso 2026/27
 author: hpcjmart
 email: jmartine@ual.es
 description: > # this means to ignore newlines until "twitter_username:"
-    Descripción fantástica para tu nuevo sitio. Puedes editar esta línea en _config.yml.
+ 
 
 # social links
 # twitter_username: hpcjmart
@@ -36,7 +36,7 @@ minima:
 # this and add the path to the pages in order as they should show up
 header_pages:
  - about.md
- - cv.md
+   # - cv.md
  
 # Build settings
 theme: minima
