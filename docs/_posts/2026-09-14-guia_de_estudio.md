@@ -108,8 +108,8 @@ La interfaz de la plataforma en línea consta de los siguientes apartados princi
 * **Grupos y Logros:** Gestión de los equipos de trabajo (los "Logros" no se utilizan en este curso).
 
 ### 👨‍🏫 Profesores del curso
-* **José Antonio Martínez**
-* **Francisco José Orts Gómez** (Grupo de Trabajo)
+* **José Antonio Martínez** (Grupo Docente B)
+* **Francisco José Orts Gómez** (Grupo Docente A y Grupos de Trabajo 1,2 y 3)
 
 *(Las sesiones de teoría se grabarán mediante Class Collaborate siempre que la infraestructura técnica del aula lo permita y no existan fallos informáticos).*
 
