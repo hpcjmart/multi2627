@@ -108,3 +108,14 @@ title: Cronograma
 * 🏛️ **Viernes 18 (Presencial - GD sesión 17):** Revisión de notas, comentarios del examen y cierre de actas.
 * 📅 **Límite de entrega:** Tienes hasta el **miércoles 16** para subir la última práctica: *Mandel MPI*.
  
+---
+
+### Resumen
+
+* Teoría   : 17 sesiones = 34 horas.
+
+* Parciales: 02 sesiones = 04 horas.
+
+* Practicas: 10 sesiones = 20 horas.
+
+* ***Total    : 58 horas. (60-2).***
