@@ -6,10 +6,6 @@ title: Guía de Estudio
 # Multiprocesadores · Guía de Estudio
 ## Universidad de Almería (UAL) — Curso 2026/2027
 
-<p align="center">
-  <img src="https://ual.es" alt="Logo Universidad de Almería" width="250">
-</p>
-
 ---
 
 ## 1. Cronograma
@@ -112,8 +108,9 @@ La interfaz de la plataforma en línea consta de los siguientes apartados princi
 * **Grupos y Logros:** Gestión de los equipos de trabajo (los "Logros" no se utilizan en este curso).
 
 ### 👨‍🏫 Profesores del curso
-* **José Antonio Martínez
-* **Francisco José Orts Gómez**
+* **José Antonio Martínez**
+* **Francisco José Orts Gómez** (Grupo de Trabajo)
+
 *(Las sesiones de teoría se grabarán mediante Class Collaborate siempre que la infraestructura técnica del aula lo permita y no existan fallos informáticos).*
 
 ---
@@ -128,7 +125,7 @@ La interfaz de la plataforma en línea consta de los siguientes apartados princi
 * No escribas textos en mayúsculas, ya que en la comunicación digital equivale a gritar y resulta incómodo de leer.
 * Emplea emoticonos [:-)] para transmitir emociones correctamente y evitar malas interpretaciones ante comentarios irónicos o toques de humor.
 
-### Recomendaciones del Equipo Docente
+### 💡 Recomendaciones del Equipo Docente
 * Sigue el orden modular: Completa las prácticas de un módulo y realiza su pre-examen correspondiente antes de pasar al siguiente bloque temático.
 * Constancia: La asignatura exige una dedicación semanal continua y planificada.
 * Asistencia a clase: Aunque no es obligatoria, las estadísticas de años anteriores confirman que un alto porcentaje de los alumnos asistentes aprueban, mientras que una gran parte de los no asistentes suspenden.
