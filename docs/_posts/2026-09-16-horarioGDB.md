@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cronograma
+title: Horaio del Grupo Docente B GDB
 ---
 
 # Calendario Cuatrimestral del Grupo Docente B - 2026
