@@ -1,4 +1,9 @@
-i# Calendario Cuatrimestral - 2026
+--
+layout: post
+title: Cronograma
+--
+
+# Calendario Cuatrimestral del Grupo Docente B - 2026
 
 ### 📅 Septiembre 2026
 
