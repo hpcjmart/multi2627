@@ -5,7 +5,7 @@ title: Cronograma
 
 # Calendario Cuatrimestral del Grupo Docente B - 2026
 
-Los jueves la clase se imparte en el aula 12 del aulario II de 11:00 a 13:00 horas.
+Los jueves la clase se imparte en el aula 14 del aulario II de 11:00 a 13:00 horas.
 Los viernes la clase se imparte en el aula 17 del aulario IV de 11:00 a 13:00 horas.
 
 
